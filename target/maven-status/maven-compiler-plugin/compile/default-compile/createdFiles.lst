@@ -1,0 +1,11 @@
+com\probandodb\task\entities\Users.class
+com\probandodb\task\serviceimplements\UsersServiceImplement.class
+com\probandodb\task\repositories\ITasksRepository.class
+com\probandodb\task\serviceimplements\TasksServiceImplement.class
+com\probandodb\task\serviceinterfaces\ITasksService.class
+com\probandodb\task\serviceinterfaces\IUserService.class
+com\probandodb\task\TaskApplication.class
+com\probandodb\task\controllers\TasksController.class
+com\probandodb\task\controllers\UsersController.class
+com\probandodb\task\repositories\IUsersRepository.class
+com\probandodb\task\entities\Tasks.class
