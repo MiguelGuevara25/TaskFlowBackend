@@ -1,0 +1,14 @@
+tech\encode\taskflow\entities\User.class
+tech\encode\taskflow\dtos\TaskDTO.class
+tech\encode\taskflow\repositories\ITaskRepository.class
+tech\encode\taskflow\TaskFlowApplication.class
+tech\encode\taskflow\servicesimplements\TaskServiceImplement.class
+tech\encode\taskflow\controllers\UserController.class
+tech\encode\taskflow\entities\Task.class
+tech\encode\taskflow\controllers\TaskController.class
+tech\encode\taskflow\servicesinterfaces\IUserService.class
+tech\encode\taskflow\servicesinterfaces\ITaskService.class
+tech\encode\taskflow\dtos\UserDTO.class
+tech\encode\taskflow\enums\TaskStatus.class
+tech\encode\taskflow\servicesimplements\UserServiceImplement.class
+tech\encode\taskflow\repositories\IUserRepository.class

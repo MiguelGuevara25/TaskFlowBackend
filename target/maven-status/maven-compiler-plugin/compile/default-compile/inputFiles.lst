@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\controllers\TaskController.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\controllers\UserController.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\dtos\TaskDTO.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\dtos\UserDTO.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\entities\Task.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\entities\User.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\enums\TaskStatus.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\repositories\ITaskRepository.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\repositories\IUserRepository.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\servicesimplements\TaskServiceImplement.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\servicesimplements\UserServiceImplement.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\servicesinterfaces\ITaskService.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\servicesinterfaces\IUserService.java
+C:\Users\Usuario\Desktop\Projects\TaskFlow\backend\taskFlow\src\main\java\tech\encode\taskflow\TaskFlowApplication.java
